@@ -1,10 +1,10 @@
 {
-  "index.enabled" : true,
-  "index.symbolicate" : true,
-  "mockadillo.npmimports.quote-configuration" : "Single Quote",
-  "VineCode.Sass.outputPath" : "\/dist\/css",
-  "VineCode.Sass.sourceMap" : "External",
-  "VineCode.Sass.updatePath" : "\/source\/sass",
-  "workspace.preview_root" : "..\/..\/..\/server",
-  "workspace.preview_server_allow_external" : true
+  "index.enabled": true,
+  "index.symbolicate": true,
+  "mockadillo.npmimports.quote-configuration": "Single Quote",
+  "VineCode.Sass.outputPath": "/dist/css",
+  "VineCode.Sass.sourceMap": "External",
+  "VineCode.Sass.updatePath": "/source/sass",
+  "workspace.preview_root": "../../../server",
+  "workspace.preview_server_allow_external": true
 }
